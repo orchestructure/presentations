@@ -15,7 +15,7 @@ This repository is meant to be the authoritative source for information on speak
 
 ### Talk Semantics
 
-Orchestructure is meant to be a place where people in (or adjacent to) computer infrastructure fields can assemble to teach, learn, and inspire others. We don't subscribe to any single way of achieving a goal nor do we tout a singular technology as being the end-all solution.
+Orchestructure is meant to be a place where people in (or adjacent to) computer infrastructure fields can assemble to teach, learn, and inspire others. We don't subscribe to any particular way of achieving a goal nor do we tout a singular technology as being the end-all solution.
 
 With this in mind, we're exceptionally open to hearing about any and all methods or technology used by individuals and companies alike. Additionally, we subscribe to an interactive and thought provoking format where everyone can spawn discussion with everyone else.
 
@@ -27,6 +27,7 @@ A few *guidelines* all presentations should follow:
 * Demos, examples, interactivity, etc. are encouraged!
 * Always start with an introduction of yourself and [ELI5](https://xkcd.com/1364/) of the topic.
 * Presentations should have at least some cohesive flow (slides not required)
+* One of the [organizers](https://github.com/orgs/orchestructure/people) should review your slides at least 1 week prior to the meet-up
 * Be ready to talk *no later* than 10 minutes after meet-up start (~6:10pm)
 
 #### Topic Examples
