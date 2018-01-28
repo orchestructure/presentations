@@ -13,7 +13,6 @@ This repository is meant to be the authoritative source for information on speak
 
 **Suggestions** are always [welcome](https://github.com/orchestructure/presentations/issues/new) and encouraged!
 
-
 ### Planned Presentations 2018
 
 * January - [Chris Short on Go in DevOps](https://www.meetup.com/orchestructure/events/246812066/)
@@ -84,3 +83,7 @@ If you would rather your presentation not be recorded, please let us know. Addit
 ### Remote Presentations
 
 If you live elsewhere or simply can't make it to a future Orchestructure meetup, let us know. We allow a few remote presentations every year and will work with you to get everything setup!
+
+### Interested in Sponsoring?
+
+We're always on the lookout for exciting organizations to help keep Orchestructure as strong as possible. Consider donating or becoming a [sponsor](https://github.com/orchestructure/sponsors) to help perpetuate your brand and get more in touch with our community! 
