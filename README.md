@@ -21,6 +21,7 @@ This repository is meant to be the authoritative source for information on speak
 * April - Brian Nuszkowski
 * May - Josh Lynn
 * June - Brian Greene TBD Hashicorp
+* July - Nicholas Klick on Serverless with AWS
 
 ### Talk Semantics
 
