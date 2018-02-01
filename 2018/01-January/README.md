@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=fC_fmN5tXkQ
 
 * **Name:** Chris Short
 * **Twitter:** [@ChrisShort](https://twitter.com/ChrisShort)
-* **Github:** [@chirs-short](https://github.com/chris-short)
+* **Github:** [@chris-short](https://github.com/chris-short)
 
 ---
 
