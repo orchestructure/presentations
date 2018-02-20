@@ -1,6 +1,6 @@
 ## Presenting at Orchestructure
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](PayPal.Me/orchestructure)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](PayPal.Me/orchestructure)
 
 [Orchestructure](http://orchestructure.io/) meets monthly on the last Wednesday of each month at 6pm.
 We are always looking for awesome people who would love to present on anything relevant to modern DevOps and Infrastructure topics.
@@ -91,4 +91,4 @@ If you live elsewhere or simply can't make it to a future Orchestructure meetup,
 
 We're always on the lookout for exciting organizations to help keep Orchestructure as strong as possible. Consider [donating](PayPal.Me/orchestructure) or becoming a [sponsor](https://github.com/orchestructure/sponsors) to help perpetuate your brand and get more in touch with our community!
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](PayPal.Me/orchestructure)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](PayPal.Me/orchestructure)
