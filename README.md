@@ -1,6 +1,6 @@
 ## Presenting at Orchestructure
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](PayPal.Me/orchestructure)
+ [![Meetup](https://img.shields.io/badge/Attend-Meetup-f13a59.svg)](https://www.meetup.com/orchestructure/) [![Slack](https://img.shields.io/badge/Chat-Slack-e9a820.svg)](http://madeina2.com/slack) [![Watch](https://img.shields.io/badge/Watch-Presentations-ff0000.svg)](https://www.youtube.com/channel/UCz3Z1cQ-DJMsdo6ftM27hkg) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](PayPal.Me/orchestructure) [![Sponsor](https://img.shields.io/badge/Sponsor-Orchestructure-brightgreen.svg)](https://github.com/orchestructure/sponsors) [![Email](https://img.shields.io/badge/Email-Organizers-lightgrey.svg)](mailto:orchestructure.meetup@gmail.com)
 
 [Orchestructure](http://orchestructure.io/) meets monthly on the last Wednesday of each month at 6pm.
 We are always looking for awesome people who would love to present on anything relevant to modern DevOps and Infrastructure topics.
@@ -37,7 +37,7 @@ A few *guidelines* all presentations should follow:
 
 * Talks should be around 20-30 minutes (no longer than ~30)
 * Demos, examples, interactivity, etc. are encouraged!
-* Always start with an introduction of yourself and [ELI5](https://xkcd.com/1364/) of the topic.
+* Always start with an introduction of yourself and quick [ELI5](https://xkcd.com/1364/) of the topic.
 * Presentations should have at least some cohesive flow (slides not required)
 * One of the [organizers](https://github.com/orgs/orchestructure/people) should review your presentation resources (i.e. slides) at least 1 week prior to the meet-up
 * Be ready to talk *no later* than 10 minutes after meet-up start (~6:10pm)
