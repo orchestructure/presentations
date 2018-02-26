@@ -17,12 +17,10 @@ This repository is meant to be the authoritative source for information on speak
 
 ### Planned Presentations 2018
 
-* January - [Chris Short on Go in DevOps](https://www.meetup.com/orchestructure/events/246812066/)
-* February - Istio talk (speaker TBD)
-* March - Ed Vielmetti
-* April - Brian Nuszkowski
-* May - Josh Lynn
-* June - Brian Greene TBD Hashicorp
+* March - Ed Vielmetti on ARM
+* April - Brian Nuszkowski on Vault
+* May - Josh Lynn on Llamasoft Infrastructure
+* June - Brian Greene from Hashicorp
 * July - Nicholas Klick on Serverless with AWS
 
 ### Talk Semantics
