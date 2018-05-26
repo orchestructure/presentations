@@ -22,6 +22,9 @@ This repository is meant to be the authoritative source for information on speak
 * May - Josh Lynn on Llamasoft Infrastructure
 * June - Brian Greene from Hashicorp
 * July - Nicholas Klick on Serverless with AWS
+* August - Censys platform
+* September - Chris Scheib on RabbitMQ
+* October - Matt Layher
 
 ### Talk Semantics
 
