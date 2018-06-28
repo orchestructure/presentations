@@ -20,11 +20,12 @@ This repository is meant to be the authoritative source for information on speak
 * March - Ed Vielmetti on ARM
 * April - Brian Nuszkowski on Vault
 * May - Josh Lynn on Llamasoft Infrastructure
-* June - Brian Greene from Hashicorp
-* July - Nicholas Klick on Serverless with AWS
-* August - Censys platform
+* June - Jared Ledvina on Palantir's progress in AWS Cloud
+* July - Andrew Sardone on the Censys Platform
+* August - Nicholas Klick on Serverless with AWS
 * September - Chris Scheib on RabbitMQ
 * October - Matt Layher
+* November - Matt McLane from Criteo
 
 ### Talk Semantics
 
