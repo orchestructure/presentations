@@ -24,7 +24,7 @@ This repository is meant to be the authoritative source for information on speak
 * July - Andrew Sardone on the Censys Platform
 * August - Nicholas Klick on Serverless with AWS
 * September - Curt Micol on Terraform
-* October - Matt Layher
+* October - Matt Layher on WireGuard VPN
 * November - Matt McLane from Criteo
 
 ### Talk Semantics
