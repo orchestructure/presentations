@@ -23,7 +23,7 @@ This repository is meant to be the authoritative source for information on speak
 * June - Jared Ledvina on Palantir's progress in AWS Cloud
 * July - Andrew Sardone on the Censys Platform
 * August - Nicholas Klick on Serverless with AWS
-* September - Chris Scheib on RabbitMQ
+* September - Curt Micol on Terraform
 * October - Matt Layher
 * November - Matt McLane from Criteo
 
