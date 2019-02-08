@@ -15,17 +15,19 @@ This repository is meant to be the authoritative source for information on speak
 
 **Suggestions** are always [welcome](https://github.com/orchestructure/presentations/issues/new) and encouraged!
 
-### Planned Presentations 2018
+### Planned Presentations 2019
 
-* March - Ed Vielmetti on ARM
-* April - Brian Nuszkowski on Vault
-* May - Josh Lynn on Llamasoft Infrastructure
-* June - Jared Ledvina on Palantir's progress in AWS Cloud
-* July - Andrew Sardone on the Censys Platform
-* August - Nicholas Klick on Serverless with AWS
-* September - Curt Micol on Terraform
-* October - Matt Farina on The Future of Helm
-* November - Matt McLane from Criteo
+* January - Zach Steindler on Infrastructure Automation at Duo
+* February - Brandon Dimcheff on Linkerd
+* March - Matt Layher on IPv6
+* April - **Open**
+* May - **Open**
+* June - **Open**
+* July - **Open**
+* August - **Open**
+* September - **Open**
+* October - **Open**
+* November - **Open**
 
 ### Talk Semantics
 
