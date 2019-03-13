@@ -20,9 +20,9 @@ This repository is meant to be the authoritative source for information on speak
 * January - Zach Steindler on Infrastructure Automation at Duo
 * February - Brandon Dimcheff on Linkerd
 * March - Matt Layher on IPv6
-* April - **Open**
-* May - **Open**
-* June - **Open**
+* April - *Pending*
+* May - Mario Loria on The Magic of Delivery
+* June - [**The Workshop!!**](http://orchestructure.io/workshop)
 * July - **Open**
 * August - **Open**
 * September - **Open**
