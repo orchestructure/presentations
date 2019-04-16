@@ -14,7 +14,7 @@ equipment.
 Thanks to Duo Security for hosting!
 
 * **Video:** https://www.youtube.com/watch?v=_Mco3qgr4_I
-* **Slides:** [PDF](https://github.com/mdlayher/talks/blob/master/orchestructure/exploring-ipv6-at-home/exploring-ipv6-at-home.pdf)
+* **Slides:** [PDF](https://github.com/mdlayher/talks/blob/master/meetups/orchestructure/exploring-ipv6-at-home/exploring-ipv6-at-home.pdf)
 
 ### Speaker Information
 
