@@ -20,11 +20,11 @@ This repository is meant to be the authoritative source for information on speak
 * January - Zach Steindler on Infrastructure Automation at Duo
 * February - Brandon Dimcheff on Linkerd
 * March - Matt Layher on IPv6
-* April - *Pending*
-* May - Mario Loria on The Magic of Delivery
-* June - [**The Workshop!!**](http://orchestructure.io/workshop)
-* July - **Open**
-* August - **Open**
+* April - Jeff Sica on Gitlab in ARC-TS at Ithaka
+* May - Mario Loria on The Magic of Delivery at Duo
+* June - [**The Workshop!!**](http://workshop.orchestructure.io/) at Ithaka
+* July - Brian Wald on k8s on Gitlab at Duo
+* August - **Open**, at Duo
 * September - **Open**
 * October - **Open**
 * November - **Open**
