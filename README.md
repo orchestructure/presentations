@@ -17,14 +17,14 @@ This repository is meant to be the authoritative source for information on speak
 
 ### Planned Presentations 2019
 
-* January - Zach Steindler on Infrastructure Automation at Duo
-* February - Brandon Dimcheff on Linkerd
-* March - Matt Layher on IPv6
-* April - Jeff Sica on Gitlab in ARC-TS at Ithaka
-* May - Mario Loria on The Magic of Delivery at Duo
-* June - [**The Workshop!!**](http://workshop.orchestructure.io/) at Ithaka
-* July - Brian Wald on k8s on Gitlab at Duo
-* August - **Open**, at Duo
+* January - LLamasoft - Zach Steindler on Infrastructure Automation at Duo
+* February - Ithaka - Brandon Dimcheff on Linkerd
+* March - Duo Security - Matt Layher on IPv6
+* April - Ithaka - Jeff Sica on Gitlab in ARC-TS
+* May - Duo - Mario Loria on CD at StockX
+* June - Ithaka - [**The Workshop!!**](http://workshop.orchestructure.io/)
+* July - Duo - Brian Wald on Gitlab
+* August - Duo - **Open**
 * September - **Open**
 * October - **Open**
 * November - **Open**
