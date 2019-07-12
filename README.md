@@ -23,11 +23,11 @@ This repository is meant to be the authoritative source for information on speak
 * April - Ithaka - Jeff Sica on Gitlab in ARC-TS
 * May - Duo - Mario Loria on CD at StockX
 * June - Ithaka - [**The Workshop!!**](http://workshop.orchestructure.io/)
-* July - Duo - Brian Wald on Gitlab
+* July - Duo - **TBD**
 * August - Duo - **Open**
-* September - **Open**
-* October - **Open**
-* November - **Open**
+* September - *Josh Curl* - https://github.com/orchestructure/presentations/issues/59
+* October - *Jared Ledvina* - https://github.com/orchestructure/presentations/pull/57
+* November and December - **No Meetups! Enjoy your Holidays!!!!**
 
 ### Talk Semantics
 
