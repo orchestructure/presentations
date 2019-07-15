@@ -25,7 +25,7 @@ This repository is meant to be the authoritative source for information on speak
 * June - Ithaka - [**The Workshop!!**](http://workshop.orchestructure.io/)
 * July - Duo - **TBD**
 * August - Duo - **Open**
-* September - *Josh Curl* - https://github.com/orchestructure/presentations/issues/59
+* September - **Open**
 * October - *Jared Ledvina* - https://github.com/orchestructure/presentations/pull/57
 * November and December - **No Meetups! Enjoy your Holidays!!!!**
 
