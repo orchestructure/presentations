@@ -24,7 +24,7 @@ This repository is meant to be the authoritative source for information on speak
 * May - Duo - Mario Loria on CD at StockX
 * June - Ithaka - [**The Workshop!!**](http://workshop.orchestructure.io/)
 * July - Duo - *Cancelled*
-* August - Duo - **Open**
+* August - Duo - Chris Short on Building Kubernetes Operators with Ansible
 * September - **Open**, Lightning Talk via Remote *Josh Curl*
 * October - *Jared Ledvina* - https://github.com/orchestructure/presentations/pull/57
 * November and December - **No Meetups! Enjoy your Holidays!!!!**
