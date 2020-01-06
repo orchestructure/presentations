@@ -17,7 +17,7 @@ This repository is meant to be the authoritative source for information on speak
 
 ### Planned Presentations 2020
 
-* January - (possible Marky)
+* January - [Marky Jackson](@markyjackson5)
 * February - (TBD)
 * March - Tuesday meeting, Zach Steindler
 * April - *Tentative Workshop*
