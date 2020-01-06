@@ -15,18 +15,18 @@ This repository is meant to be the authoritative source for information on speak
 
 **Suggestions** are always [welcome](https://github.com/orchestructure/presentations/issues/new) and encouraged!
 
-### Planned Presentations 2019
+### Planned Presentations 2020
 
-* January - LLamasoft - Zach Steindler on Infrastructure Automation at Duo
-* February - Ithaka - Brandon Dimcheff on Linkerd
-* March - Duo Security - Matt Layher on IPv6
-* April - Ithaka - Jeff Sica on Gitlab in ARC-TS
-* May - Duo - Mario Loria on CD at StockX
-* June - Ithaka - [**The Workshop!!**](http://workshop.orchestructure.io/)
-* July - Duo - *Cancelled*
-* August - Duo - Chris Short on Building Kubernetes Operators with Ansible
-* September - **Open**, Lightning Talk via Remote *Josh Curl*
-* October - *Jared Ledvina* - https://github.com/orchestructure/presentations/pull/57
+* January - (possible Marky)
+* February - (TBD)
+* March - Tuesday meeting, Zach Steindler
+* April - *Tentative Workshop*
+* May 
+* June 
+* July 
+* August 
+* September 
+* October 
 * November and December - **No Meetups! Enjoy your Holidays!!!!**
 
 ### Talk Semantics
