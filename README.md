@@ -23,7 +23,7 @@ This repository is meant to be the authoritative source for information on speak
 * April - *Tentative Workshop*
 * May 
 * June 
-* July 
+* July - Mario Loria - (Intelligent) Pod Autoscaling and other Short Stories???
 * August 
 * September 
 * October 
