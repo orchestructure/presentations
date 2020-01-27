@@ -15,18 +15,20 @@ This repository is meant to be the authoritative source for information on speak
 
 **Suggestions** are always [welcome](https://github.com/orchestructure/presentations/issues/new) and encouraged!
 
-### Planned Presentations 2020
+### Planned Presentations for 2020
 
-* January - [Marky Jackson](@markyjackson5)
-* February - (TBD)
-* March - Tuesday meeting, Zach Steindler
-* April - *Tentative Workshop*
-* May 
-* June 
-* July - Mario Loria - (Intelligent) Pod Autoscaling and other Short Stories???
-* August 
-* September 
-* October 
+> All meetups take place from 6-7:30pm on the last wednesday of the month!
+
+* January 29th - [Marky Jackson](@markyjackson5)
+* February 26th - (TBD)
+* March 25th - Tuesday meeting, Zach Steindler
+* April 29th - *Tentative Workshop*
+* May 27th - TBD - Duo Security, 1st St, Lower Peninsula Room
+* June 24th - TBD - Duo Security, 1st St, Lower Peninsula Room
+* July 29th - Mario Loria - (Intelligent) Pod Autoscaling and other Short Stories - Duo Security, 1st St, Lower Peninsula Room
+* August 26th
+* September 30th
+* October 28th
 * November and December - **No Meetups! Enjoy your Holidays!!!!**
 
 ### Talk Semantics
