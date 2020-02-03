@@ -21,7 +21,7 @@ This repository is meant to be the authoritative source for information on speak
 
 * January 29th - [Marky Jackson](@markyjackson5)
 * February 26th - (TBD)
-* March 24th - **Tuesday meeting!**, Zach Steindler
+* March 26th - **Thursday meeting!**, Zach Steindler
 * April 29th - *Tentative Workshop*
 * May 27th - TBD - Duo Security, 1st St, Lower Peninsula Room
 * June 24th - TBD - Duo Security, 1st St, Lower Peninsula Room
