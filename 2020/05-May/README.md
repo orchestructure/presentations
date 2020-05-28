@@ -17,7 +17,7 @@ Additionally, Rajesh is planning a special giveaway for those tuned in sometime 
 Our speaker, Rajesh Jain, is a Cloud Engineer @ Palo Alto Networks. Prior to Palo, he was at Aporeto (acquired by Palo), and Pivotal. Rajesh has worked on various cloud platforms including Kubernetes, Cloud foundry, AWS, GCP and Azure. He has presented before at Kubernetes and DevOps focused meetups and conferences.
 
 * **Video:** https://youtu.be/bl6MSrDg_i4
-* **Slides:** [PDF](<UPDATEME>)
+* **Slides:** [PDF](https://github.com/orchestructure/presentations/blob/master/2020/05-May/Open%20Policy%20Agent%20-%20Meetup.pdf)
 * **Github Resource:** https://github.com/rjain15/opa-meetup
 
 ### Speaker Information
