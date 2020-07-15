@@ -25,9 +25,10 @@ This repository is meant to be the authoritative source for information on speak
 * April 29th - *Tentative Workshop*
 * May 27th - TBD - Duo Security, 1st St, Lower Peninsula Room
 * June 24th - TBD - Duo Security, 1st St, Lower Peninsula Room
-* July 29th - Mario Loria - (Intelligent) Pod Autoscaling and other Short Stories - Duo Security, 1st St, Lower Peninsula Room
-* August 26th
-* September 30th
+> All following events will be Virtual until Further Notice.
+* July 29th - Matt Farina - Helm 3
+* August 26th - TBD
+* September 30th - Nicholas Klick - GitOps with GitLab
 * October 28th
 * November and December - **No Meetups! Enjoy your Holidays!!!!**
 
